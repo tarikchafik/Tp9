@@ -17,19 +17,19 @@
         <input type="text" name="nom" required> <br><br>
     
 
-        <label>Prénom :</label> 
+        <label>Prénom:</label> 
         <input type="text" name="prenom" required> <br><br>
 
-        <label>Groupe :</label> 
+        <label>Groupe:</label> 
         <input type="number" name="group" required min="0"> <br><br>
 
-        <label>Sujet :</label> 
+        <label>Sujet:</label> 
         <input type="text" name="sujet" required> <br><br>
 
-        <label>Date début :</label> 
+        <label>Date début:</label> 
         <input type="date" name="date_debut" required> <br><br>
 
-        <label>Date fin :</label> 
+        <label>Date fin:</label> 
         <input type="date" name="date_fin" required> <br><br>
 
         <label>Encadrement :</label> 
